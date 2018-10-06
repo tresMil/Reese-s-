@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 , cCANAL 5
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/4423.m3u8
+
+#EXTINF:-1 , CARTOON NETWORK
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11361.m3u8
+
+#EXTINF:-1 , DISNEY CHANEL
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11354.m3u8
+
+#EXTINF:-1 , DISNEY XD
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11353.m3u8
+
+#EXTINF:-1 , NICKELODEON
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11469.m3u8
+
+#EXTINF:-1 , BOOMERANG
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11355.m3u8
+
+#EXTINF:-1 , FOX
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/4666.m3u8
+
+#EXTINF:-1 ,DISCOVERY KIDS
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/11383.m3u8
+
+#EXTINF:-1 ,TOONCAST
+http://iptv.wtf:25461/live/mHnCq0JBt/ze6cfJW972/4544.m3u8
+
+PELICULAS
+
+#EXTINF:-1 ,HOTEL TRANSILVANIA 3
+https://openload.co/stream/yxLLh4QXS7s~1538871106~187.172.0.0~N8T_5WPz?mime=true
